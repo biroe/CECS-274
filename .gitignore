@@ -1,0 +1,11 @@
+# stupid files
+**/*.zip
+**/*.pdf
+**/*.class
+**/*.doc
+**/*.docx
+**/*.xlsx
+**/*.DS
+
+lab1/venv/
+lab1/.idea/
