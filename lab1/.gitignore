@@ -6,7 +6,4 @@
 **/*.docx
 **/*.xlsx
 **/*.DS
-
-lab1/.DS_Store
-lab1/venv/
-lab1/.idea/
+**/*.DS_Store
